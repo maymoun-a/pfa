@@ -161,10 +161,12 @@ Ce projet simule un **pipeline d’analyse de données réel**, utilisé dans :
 ---
 
 ### 👤 amine gdaiem 
-![amine gdaiem ](e5658a6a-98b8-4cc3-b1b3-ffca180c982c-1.jpg)
+![amine gdaiem ] <img width="1391" height="1413" alt="e5658a6a-98b8-4cc3-b1b3-ffca180c982c" src="https://github.com/user-attachments/assets/4ed62c38-c110-412a-a017-affc963bdacf" />
+
 
 ### 👤 fers drira
-![fers drira](8ca34b6d-95a4-4e32-aff4-777099cdebb4.jpg)
+![fers drira] <img width="959" height="960" alt="8ca34b6d-95a4-4e32-aff4-777099cdebb4" src="https://github.com/user-attachments/assets/5dc58baf-ef96-46e3-804b-a0e58e62d5b4" />
+
 
  
 
