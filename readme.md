@@ -2,7 +2,7 @@
 # 📊 Projet d’Analyse de Ventes ( Python)
 
 
-🔗 Dépôt GitHub : 
+🔗 Dépôt GitHub : https://github.com/maymoun-a/pfa.git
 
 Ce projet est un système d’analyse de données de ventes simulées développé en Python.  
 Il contient deux versions :
