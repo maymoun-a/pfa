@@ -157,7 +157,8 @@ Ce projet simule un **pipeline d’analyse de données réel**, utilisé dans :
 ## 🧠 Auteurs
 
 ### 👤 mhomed maymoun aouay
-![mhomed maymoun aouay](470533734_122106714482680932_3683554923486708182_n.jpg)
+![mhomed maymoun aouay] <img width="720" height="720" alt="470533734_122106714482680932_3683554923486708182_n" src="https://github.com/user-attachments/assets/4ed6a182-3f01-4cfa-bc59-aa7e4a526453" />
+
 
   
 
